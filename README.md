@@ -7,6 +7,8 @@
  - [VPN](#VPN)
 
 ## VPN
+![vpn](https://my5xi5jq5p-flywheel.netdna-ssl.com/wp-content/uploads/2019/09/vpn-icon.png)
+
 - [Windscribe](https://windscribe.com/) Freemium vpn
 - [ProtonVPN](https://protonvpn.com/) Freemium vpn
 - [Mullvad](https://mullvad.net/en/) Reccomended paid vpn
