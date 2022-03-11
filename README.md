@@ -1,7 +1,7 @@
 # piracy-for-dummies
 
 ## Contents
-- [Prerequisites](#Before-you-sail-the-high-seas)
+- [Prerequisites](#Prerequisites)
 - [Userscripts](#userscripts)
 - [Password Vaults](#password-vaults)
 - [Antivirus](#antivirus)
@@ -120,8 +120,8 @@
 - [Miscellaneous](#miscellaneous)
 
 ## Prerequisites
- -If you do not want ads injected directly into your brain, you should consider [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
- -[VPN](#VPN)
+ - If you do not want ads injected directly into your brain, you should consider [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
+ - [VPN](#VPN)
  
 ## Userscripts
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
