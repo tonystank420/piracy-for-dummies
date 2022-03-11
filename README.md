@@ -1,21 +1,5 @@
 # piracy-for-dummies
 
-## Contents
-- [Prerequisites](#Prerequisites)
-- [Greasyfork](#Greasyfork)
-- [Privacy](#privacy)
-- [Email](#email)
-- [Torrenting](#torrenting)
-- [Streaming](#streaming)
-- [Direct Downloads](#direct-downloads)
-- [Media Centre](#Media-Centre)
-- [Games](#games)
-- [Music](#music)
-- [Software](#software)
-- [Books](#books)
-- [Cloud Storage](#cloud-storage)
-- [Mobile Apps](#mobile-apps)
-
 ## Prerequisites
  - If you do not want ads injected directly into your brain, you should consider [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
  - [VPN](#VPN)
