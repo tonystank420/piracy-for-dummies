@@ -1,5 +1,7 @@
 # piracy-for-dummies
 
+![Arghh](https://www.librarian.net/wp-content/uploads/Screen-shot-2011-11-23-at-5.06.25-PM.jpg)
+
 ## Prerequisites
  - If you do not want ads injected directly into your brain, you should consider [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
  - [VPN](#VPN)
