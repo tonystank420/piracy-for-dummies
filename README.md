@@ -119,8 +119,9 @@
 - [Telegram Piracy](#telegram-piracy)
 - [Miscellaneous](#miscellaneous)
 
-## Before you sail the high seas
- -[Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
+## Prerequisites
+ -If you do not want ads injected directly into your brain, you should consider [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
+ -[VPN](#VPN)
  
 ## Userscripts
 - [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
