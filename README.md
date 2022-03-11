@@ -19,6 +19,11 @@
 ## Prerequisites
  - If you do not want ads injected directly into your brain, you should consider [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
  - [VPN](#VPN)
+
+## VPN
+- [Windscribe](https://windscribe.com/) Freemium vpn
+- [ProtonVPN](https://protonvpn.com/) Freemium vpn
+- [Mullvad](https://mullvad.net/en/) Reccomended paid vpn
  
 ## Greasyfork
 - Prerequisites are [Violetmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en), [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
