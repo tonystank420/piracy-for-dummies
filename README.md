@@ -3,14 +3,10 @@
 ## Contents
 - [Prerequisites](#Prerequisites)
 - [Greasyfork](#Greasyfork)
-- [Password Vaults](#password-vaults)
-- [Antivirus](#antivirus)
 - [Privacy](#privacy)
 - [Email](#email)
-- [Operating Systems](#operating-systems)
-- [Decentralised Networks](#decentralised-networks)
-- [Domain Names](#domain-names)
 - [Torrenting](#torrenting)
+- [Streaming](#streaming)
 - [Direct Downloads](#direct-downloads)
 - [Media Centre](#Media-Centre)
 - [Games](#games)
@@ -42,15 +38,31 @@
 ## Torrenting
 - Prerequisites
   - [VPN](#VPN)
-  - A torrent clien [Qbittorrent](https://www.qbittorrent.org/download.php) is reccomended
+  - A torrent client. [Qbittorrent](https://www.qbittorrent.org/download.php) is reccomended
 - [1337](https://1337x.to/)
 - [rarbg](https://rarbgprx.org/torrents.php)
 - [knaben](https://knaben.eu/)
+
+## Streaming
+- [Sflix](https://sflix.to/home)
+- [Fmovies](https://fmoviesto.cc/home)
+- [FlixHQ](https://flixhq.to/home)
 
 ## Direct Downloads
 - [Olamovies](https://olamovies.fun/)/[Olamovies Telegram](https://t.me/olamovies_official) and [mkvCinemas] for high quality google drive downloads
 - [Pahe](https://pahe.li/)
 - [PSArips](https://psa.pm/)
+
+## Media Centre
+- [Kodi](https://kodi.tv/download/windows)
+- [Addons for Kodi](https://www.reddit.com/r/Addons4Kodi/)
+
+## Games
+- [FitGirl-Repacks](https://fitgirl-repacks.site/) Faster downloads/slower installs
+- [Dodi-Repacks](https://dodi-repacks.site/) Faster downloads/slower installs
+- [SteamUnlocked](https://steamunlocked.net/) Slower downloads/faster installs
+- [Gog-games](https://gog-games.com/) Slower downloads/faster installs
+- [IGG](https://igg-games.com/) Slower downloads/faster installs
 
 ## Software
 - [Monkrus](https://apkmody.io/apps/adguard-premium-mod-apk)
